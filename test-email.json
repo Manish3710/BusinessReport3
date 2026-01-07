@@ -1,0 +1,13 @@
+{
+  "to": ["rathodram5177@gmail.com"],
+  "from": "manishwakade10@gmail.com",
+  "subject": "Test Report - Business Manager",
+  "htmlBody": "<html><body><h1>Test Email</h1><p>This is a test email from your Business Report Manager.</p></body></html>",
+  "excelData": {
+    "filename": "test_report.csv",
+    "data": [
+      {"name": "Test User", "email": "test@example.com", "status": "Active"}
+    ],
+    "headers": ["name", "email", "status"]
+  }
+}
